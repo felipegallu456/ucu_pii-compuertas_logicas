@@ -16,11 +16,7 @@ width="150"/>
 
 Tu mejor amigo está aprendiendo electrónica y como sabe que tu haces
 Informática, pide tu ayuda para que desarrolles un programa que le permita de
-manera rápida, evaluar el resultado de un circuito basado compuertas lógicas.
-
-Para apoyarte en la solución del problema, tu amigo te comparte el siguiente
-[repositorio](https://github.com/ucudal/PII_PythonToCSharp_Compuertas) donde
-tiene una implementación en Python 🐍 de parte del problema.
+manera rápida, evaluar el resultado de un circuito basado en compuertas lógicas.
 
 ## Consideraciones
 
@@ -47,11 +43,7 @@ editor de diagramas, ya sea
 ### Parte 2: Implementación
 
 Desarrolla el programa utilizando los conceptos que hemos visto hasta el
-momento, incluyendo las guías
-[Expert](https://github.com/ucudal/PII_Guias/blob/main/Expert.md),
-[Polymorphism](https://github.com/ucudal/PII_Guias/blob/main/Polymorphism.md),
-[SRP](https://github.com/ucudal/PII_Guias/blob/main/SRP.md) y
-[LSP](https://github.com/ucudal/PII_Guias/blob/main/LSP.md).
+momento.
 
 ### Parte 3: Validación
 
